@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exchange Rate App</string>
+    <string name="todays_exchange_rates">Today\'s Exchange Rates</string>
+    <string name="current_gold_prices">Current Gold Prices</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="amount">Amount</string>
+    <string name="conversion_result">Conversion Result</string>
+    <string name="world_gold_price">World Gold Price:</string>
+    <string name="sixteen_pae_yay">16 Pae Yay:</string>
+    <string name="fifteen_pae_yay">15 Pae Yay:</string>
+    <string name="ad_banner">Ad Banner</string>
+    <!-- Add more if needed -->
+</resources>
