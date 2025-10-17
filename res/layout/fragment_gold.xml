@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Current Gold Prices"
+        android:text="@string/current_gold_prices"
         android:textSize="20sp"
         android:textColor="#ADD8E6"
         android:textStyle="bold"
